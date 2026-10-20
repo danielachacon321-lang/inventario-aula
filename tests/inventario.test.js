@@ -1,0 +1,1 @@
+assert.equal(resultado, 16);
